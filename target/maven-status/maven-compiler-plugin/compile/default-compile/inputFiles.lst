@@ -1,0 +1,15 @@
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/config/AdminConfiguration.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/model/Role.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/RecipeOnlineApplication.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/repository/AdminRepository.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/service/impl/AdminServiceImpl.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/dto/AdminDto.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/model/User.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/model/Category.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/config/AdminServiceConfig.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/repository/RoleRepository.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/config/AdminDetails.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/model/Recipe.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/service/AdminService.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/model/Admin.java
+/Users/yusufaydin/IdeaProjects/recipe/src/main/java/com/yusuf/recipeOnline/model/Item.java
